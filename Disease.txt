@@ -1,0 +1,107 @@
+020000101 Please do the tests for dengue and Chikunguniya and take bed rest
+021000101 Please do the tests for dengue and Chikunguniya and take bed rest
+022000101 Please do the tests for dengue and Chikunguniya and take bed rest
+020000201 Please do the tests for dengue and Chikunguniya and take bed rest
+021000201 Please do the tests for dengue and Chikunguniya and take bed rest
+022000201 Please do the tests for dengue and Chikunguniya and take bed rest
+020000111 Please do the tests for dengue and Chikunguniya and take bed rest
+021000111 Please do the tests for dengue and Chikunguniya and take bed rest
+022000111 Please do the tests for dengue and Chikunguniya and take bed rest
+020000211 Please do the tests for dengue and Chikunguniya and take bed rest
+021000211 Please do the tests for dengue and Chikunguniya and take bed rest
+022000211 Please do the tests for dengue and Chikunguniya and take bed rest
+11000101 You have viral fever. Please take medicine for common cold
+11001101 You have viral fever. Please take medicine for common cold
+11000111 You have viral fever. Please take medicine for common cold
+11001111 You have viral fever. Please take medicine for common cold
+11010101 You have viral fever. Please take medicine for common cold
+11011101 You have viral fever. Please take medicine for common cold
+11010111 You have viral fever. Please take medicine for common cold
+11011111 You have viral fever. Please take medicine for common cold
+11100101 You have viral fever. Please take medicine for common cold
+11101101 You have viral fever. Please take medicine for common cold
+11100111 You have viral fever. Please take medicine for common cold
+11101111 You have viral fever. Please take medicine for common cold
+11110101 You have viral fever. Please take medicine for common cold
+11111101 You have viral fever. Please take medicine for common cold
+11110111 You have viral fever. Please take medicine for common cold
+11111111 You have viral fever. Please take medicine for common cold
+11100001 Please consult a doctor.
+11100011 Please consult a doctor.
+11100101 Please consult a doctor.
+11100111 Please consult a doctor.
+11101001 Please consult a doctor.
+11101011 Please consult a doctor.
+11101101 Please consult a doctor.
+11101111 Please consult a doctor.
+11110001 Please consult a doctor.
+11110011 Please consult a doctor.
+11110101 Please consult a doctor.
+11110111 Please consult a doctor.
+11111001 Please consult a doctor.
+11111011 Please consult a doctor.
+11111101 Please consult a doctor.
+11111111 Please consult a doctor.
+10000100 You have common cold. Take medicine for common cold.
+11000100 You have common cold. Take medicine for common cold.
+11101100 You have severe cold. Consult doctor for antibiotics.
+11001100 You have severe cold. Consult doctor for antibiotics.
+11100100 You have severe cold. Consult doctor for antibiotics.
+11111100 You have severe cold. Consult doctor for antibiotics.
+11011100 You have severe cold. Consult doctor for antibiotics.
+11110100 You have severe cold. Consult doctor for antibiotics.
+000000000 You are normal. Do not worry.
+10000000 You are normal. Do not worry.
+010000000 Take rest. You will be alright.
+010000100 Take rest.
+001000000 Take some rest.
+000100000 Eat less. You are getting fat.
+001100000 You are obesee. A doctor can't help obesity. Change lifestyle.
+000200000 Eat more. Too much diet control is not good for health.
+000002000 Don't worry. Have some water.
+000003000 You need to have plenty of water.
+000000200 Take rest.
+000000010 Consult a skin doctor.
+000000001 The pain should be temporary. If the pain lasts, please consult a doctor.
+000010000 You have probably have loose motion. Drink plenty of water.
+001010000 You have probably have loose motion. Drink plenty of water.
+002010000 You have probably have loose motion. Drink plenty of water.
+000020000 You have constipation.
+10001000 You should check for asthma
+10101000 You should check for asthma
+10011000 You should check for asthma
+10111000 You should check for asthma
+11000010 You have caught cold. It will be alright. Take rest.
+11000000 Its cold. Consult doctor if continues.
+11100010 You have caught cold. It will be alright. Take rest.
+10010000 Do X-ray and take reports to doctor.
+10000010 You have caught cold. It will be alright. Take rest.
+10000100 Take rest. If problem persists, consult ENT specialist.
+11100110 Consult an ENT specialist.
+10001000 You should check for asthma
+10101000 You should check for asthma
+10011000 You should check for asthma
+10111000 You should check for asthma
+11000010 You have caught cold. It will be alright. Take rest.
+11000000 Its cold. Consult doctor if continues.
+11100010 You have caught cold. It will be alright. Take rest.
+10010000 Do X-ray and take reports to doctor.
+10000010 You have caught cold. It will be alright. Take rest.
+10000100 Take rest. If problem persists, consult ENT specialist.
+11100110 Consult an ENT specialist.
+10001001 You should check for asthma. If the fever stays, consult doctor.
+10101001 You should check for asthma. If the fever stays, consult doctor.
+10011001 You should check for asthma. If the fever stays, consult doctor.
+10111001 You should check for asthma. If the fever stays, consult doctor.
+11000011 You have caught cold. It will be alright. Take rest. If the fever stays, consult doctor.
+11000001 Its cold. Consult doctor if continues. If the fever stays, consult doctor.
+11100011 You have caught cold. It will be alright. Take rest. If the fever stays, consult doctor.
+10010001 Do X-ray and take reports to doctor. If the fever stays, consult doctor.
+10000011 You have caught cold. It will be alright. Take rest. If the fever stays, consult doctor.
+10000101 Take rest. If problem persists, consult ENT specialist. If the fever stays, consult doctor.
+11100111 Consult an ENT specialist. If the fever stays, consult doctor.
+24420 Please get admitted to a hospital immediately.
+24400 You have serious case of heart disease. Please see a doctor.
+000012000 Drink more water.
+11111112 Take plenty of rest. This looks serious.
+10100000 Have some Tushka syrup.

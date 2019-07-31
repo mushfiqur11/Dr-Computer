@@ -1,0 +1,180 @@
+
+
+Date: 8-10-2017
+11111110
+Cough  low
+Throat pain  yes
+Chest pain  yes
+Shortness of breath  yes
+Runny nose  yes
+Ear pain  yes
+Fever  no
+
+Date: 8-10-2017
+011111011
+Fever  low
+Fatigue or tiredness  low
+Weight  increased
+Bowl habit  frequent
+Bowl color  light yellow
+Headache  no
+Rash  yes
+Joint pain  yes
+
+
+
+
+
+
+
+
+Date: 8-10-2017
+021000111
+Fever  high
+Fatigue or tiredness  low
+Weight  normal
+Bowl habit  regular
+Bowl color  regular
+Headache  light
+Rash  yes
+Joint pain  yes
+
+Date: 8-10-2017
+021011111
+Fever  high
+Fatigue or tiredness  low
+Weight  normal
+Bowl habit  frequent
+Bowl color  light yellow
+Headache  light
+Rash  yes
+Joint pain  yes
+
+Date: 8-10-2017
+021000111
+Fever  high
+Fatigue or tiredness  low
+Weight  normal
+Bowl habit  regular
+Bowl color  regular
+Headache  light
+Rash  yes
+Joint pain  yes
+
+Date: 8-10-2017
+021000111
+Fever  high
+Fatigue or tiredness  low
+Weight  normal
+Bowl habit  regular
+Bowl color  regular
+Headache  light
+Rash  yes
+Joint pain  yes
+
+Date: 8-10-2017
+020000111
+Fever  high
+Fatigue or tiredness  no
+Weight  normal
+Bowl habit  regular
+Bowl color  regular
+Headache  light
+Rash  yes
+Joint pain  yes
+
+Date: 8-10-2017
+011121210
+Fever  low
+Fatigue or tiredness  low
+Weight  increased
+Bowl habit  reduced
+Bowl color  light yellow
+Headache  severe
+Rash  yes
+Joint pain  no
+
+Date: 8-10-2017
+020000111
+Fever  high
+Fatigue or tiredness  no
+Weight  normal
+Bowl habit  regular
+Bowl color  regular
+Headache  light
+Rash  yes
+Joint pain  yes
+
+Date: 8-10-2017
+020111010
+Fever  high
+Fatigue or tiredness  no
+Weight  increased
+Bowl habit  frequent
+Bowl color  light yellow
+Headache  no
+Rash  yes
+Joint pain  no
+
+
+
+Date: 15-10-2017
+2442268435472
+Breathlessness  at rest
+Chest pain  at rest
+Heaviness or swelling of legs  yes
+
+Date: 15-10-2017
+24420
+Breathlessness  at rest
+Chest pain  at rest
+Heaviness or swelling of legs  yes
+
+Date: 15-10-2017
+24420
+Breathlessness  at rest
+Chest pain  at rest
+Heaviness or swelling of legs  yes
+
+Date: 15-10-2017
+24420
+Breathlessness  at rest
+Chest pain  at rest
+Heaviness or swelling of legs  yes
+
+Date: 15-10-2017
+24400
+Breathlessness  at rest
+Chest pain  at rest
+Heaviness or swelling of legs  no
+
+Date: 15-10-2017
+000012000
+Fever  no
+Fatigue or tiredness  no
+Weight  normal
+Bowl habit  frequent
+Bowl color  dark yellow
+Headache  no
+Rash  no
+Joint pain  no
+
+Date: 15-10-2017
+11111112
+Cough  low
+Throat pain  yes
+Chest pain  yes
+Shortness of breath  yes
+Runny nose  yes
+Ear pain  yes
+Fever  high
+
+Date: 15-10-2017
+10100000
+Cough  no
+Throat pain  yes
+Chest pain  no
+Shortness of breath  no
+Runny nose  no
+Ear pain  no
+Fever  no
